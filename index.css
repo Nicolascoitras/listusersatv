@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+}
+#user-list{
+    margin: 0;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2px; 
+    text-align: center;
+}
+#user-list li{
+list-style: none;
+text-decoration: none;
+
+}
+
